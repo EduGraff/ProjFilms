@@ -1,0 +1,16 @@
+.image_width{
+   border-radius: 10px; 
+   width: auto;
+   height: auto; 
+   max-width: 425px;
+   max-height: 652px;
+   padding: 5px;
+}
+
+.card_format{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card-sinopse{
+    text-align: justify;
+}

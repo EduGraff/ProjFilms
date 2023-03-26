@@ -1,0 +1,12 @@
+#id_button{
+    background-color: crimson;
+    border-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+#id_button:hover{
+    border-color: black;
+    color: crimson;
+    background-color: white;
+}
