@@ -1,4 +1,3 @@
-import Footer from './../components/Footer/index';
 import "./about.css"
 
 export default function About() {
@@ -35,8 +34,6 @@ export default function About() {
                     </div>
                 </div>
             </div>
-
-            <Footer />
         </div >
     )
 }

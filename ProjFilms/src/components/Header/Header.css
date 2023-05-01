@@ -1,0 +1,15 @@
+.nav-bar-edit {
+    pointer-events: none;
+    text-decoration: none;
+    padding-top: 23px;
+    color: crimson;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.nav-bar-edit:hover {
+    pointer-events: none;
+    color: purple;
+    font-size: 24px;
+    font-weight: bold;
+}

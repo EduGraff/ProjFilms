@@ -1,10 +1,8 @@
 import React from 'react';
-import Footer from './../components/Footer/index';
-import { useParams } from 'react-router-dom';
 import "./../pages/plans.css"
 
 const planos = [{
-    "plano": "Standard",
+    "plano": "Free",
     "preco": "R$29.80",
     "detalhes": "Acesso limitado a biblioteca de filmes, e com anúncios recorrentes!"
 },
@@ -50,7 +48,6 @@ export default function Plans() {
                     ))}
                 </div>
             </div>
-            <Footer />
         </div>
     )
 }

@@ -2,9 +2,10 @@
    border-radius: 10px; 
    width: auto;
    height: auto; 
-   max-width: 425px;
-   max-height: 652px;
+   max-width: 259px;
+   max-height: 384px;
    padding: 5px;
+   margin: auto;
 }
 
 .card_format{
@@ -13,4 +14,18 @@
 
 .card-sinopse{
     text-align: justify;
+}
+
+.card-nota{
+    position: relative;
+}
+
+.card-img-top{
+    margin: 0px auto;
+}
+
+.loadingApi{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
 }
